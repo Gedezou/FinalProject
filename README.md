@@ -4,7 +4,7 @@
 
 ###Discription
 This is a web app
-website I create
+website I created
 
 The first file are my python files one to view what files are displayed on the page
 app.py is there to generate the website and create the app.
